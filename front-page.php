@@ -88,7 +88,7 @@ get_header(); ?>
 			<span>Dados</span>.cultura.gov.br</a></li>
 		<li><a class="brand-heading" href="<?php echo site_url('vocabulario'); ?>">
 			<img src="<?php echo get_template_directory_uri() ?>/assets/sub.glyph.vocabulario.svg" class="img-responsive"/>
-			<span>Vocabulário</span>.cultura.gov.br</a></li>
+			<span>Vocabulários</span>.cultura.gov.br</a></li>
 	</ul>
 </aside>
 </div></section>
