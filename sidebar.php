@@ -16,7 +16,7 @@
 
 		<!-- TODO: Melhorar forma de expor isso... está meio cru, acho. -->
 		<aside class="contato">
-			<a href="http://sniic.cultura.gov.br/contato/"><h4>Contato</h4></a>
+			<a href="http://i.cultura.gov.br/contato/"><h4>Contato</h4></a>
 		</aside>
 
 		<!-- TODO: Convert into custom Wordpress widget for backend editing, use Tinyletter -->
